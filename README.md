@@ -1,14 +1,6 @@
 # BIKE RENT APP UI DESIGN
 
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/81028182/123064695-3b18d780-d42e-11eb-8d13-702c368daf48.gif)
-
-
-you can use HTML syntax for this purpose
-
-<img src="/https://user-images.githubusercontent.com/81028182/123064695-3b18d780-d42e-11eb-8d13-702c368daf48.gif" width="250" height="250"/>
-
-![test image size]<img src="https://user-images.githubusercontent.com/81028182/123064695-3b18d780-d42e-11eb-8d13-702c368daf48.gif" width="400" height="790">
+![ezgif com-gif-maker]<img src="https://user-images.githubusercontent.com/81028182/123064695-3b18d780-d42e-11eb-8d13-702c368daf48.gif" width="400" height="800">
 
 
 ## Some Screenshots
