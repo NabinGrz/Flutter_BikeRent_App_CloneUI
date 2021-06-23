@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Some Screenshots
 
-![](SS1.png)
+![](assets/images/SS1.png)
