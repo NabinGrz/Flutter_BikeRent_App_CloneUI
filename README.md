@@ -1,6 +1,5 @@
 # BIKE RENT APP UI DESIGN
-
-https://user-images.githubusercontent.com/81028182/123063794-7070f580-d42d-11eb-9eb0-65765bc4d4bf.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/81028182/123064387-f68d3c00-d42d-11eb-94f8-a0db1277d19f.gif)
 
 
 ## Some Screenshots
