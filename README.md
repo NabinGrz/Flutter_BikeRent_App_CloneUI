@@ -1,6 +1,6 @@
 # BIKE RENT APP UI DESIGN
 
-A new Flutter project.
+![SVID_20210623_140802_1](https://user-images.githubusercontent.com/81028182/123063152-e2950a80-d42c-11eb-839e-e20159cc872d.gif)
 
 ## Some Screenshots
 
